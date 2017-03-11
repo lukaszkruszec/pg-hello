@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function personInfo() {
+	info = 'Łukasz Kruszec';
+	navigator.notification.alert(info);
+}
